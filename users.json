@@ -1,0 +1,37 @@
+{
+  "company": {
+    "name": "My Company",
+    "employees": {
+      "1": {
+        "id": 1,
+        "name": "John Doe",
+        "position": "Software Engineer",
+        "location": "San Francisco, CA"
+      },
+      "2": {
+        "id": 2,
+        "name": "Jane Smith",
+        "position": "Product Manager",
+        "location": "New York, NY"
+      },
+      "3": {
+        "id": 3,
+        "name": "Michael Johnson",
+        "position": "UI/UX Designer",
+        "location": "Los Angeles, CA"
+      },
+      "4": {
+        "id": 4,
+        "name": "Emily Davis",
+        "position": "Data Analyst",
+        "location": "Chicago, IL"
+      },
+      "5": {
+        "id": 5,
+        "name": "Ryan Thompson",
+        "position": "Marketing Specialist",
+        "location": "Austin, TX"
+      }
+    }
+  }
+}
